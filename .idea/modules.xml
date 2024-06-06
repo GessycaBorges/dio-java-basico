@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/dio-java-basico.iml" filepath="$PROJECT_DIR$/.idea/dio-java-basico.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-anatomia-de-classes/java-anatomia-de-classes.iml" filepath="$PROJECT_DIR$/java-anatomia-de-classes/java-anatomia-de-classes.iml" />
       <module fileurl="file://$PROJECT_DIR$/tipos-variaveis/tipos-variaveis.iml" filepath="$PROJECT_DIR$/tipos-variaveis/tipos-variaveis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Controle-fluxo/Controle-fluxo.iml" filepath="$PROJECT_DIR$/Controle-fluxo/Controle-fluxo.iml" />
     </modules>
   </component>
 </project>
